@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Utkarsh Gupta 👋
 
-<!--
-**guptautkarsh05/guptautkarsh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Specialist & RPA Developer | MS student @ Northeastern University**
 
-Here are some ideas to get you started:
+- 🚀 Building automation & AI agent workflows
+- 🤖 Experienced with UiPath + Python scripting
+- 📊 Interests: machine learning, data analysis, product + growth
+- 🌐 Connect on LinkedIn: https://www.linkedin.com/in/utkarsh-gupta-605a0b2b/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Python · JavaScript · Git/GitHub · Jupyter · RPA (UiPath)
+
+## Projects
+- **tic-tac-toe** – a small JavaScript game starter
+
+_(Profile README — updated by AI assistant)_
